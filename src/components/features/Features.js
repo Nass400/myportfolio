@@ -21,8 +21,7 @@ const Features = () => {
         /> */}
         <Card
           title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Developing apps with Spring Boot, Node.js, and React is a great way to build modern, robust and high-performing applications."
           icon={<AiFillAppstore />}
         />
         {/* <Card
@@ -33,8 +32,7 @@ const Features = () => {
         /> */}
         <Card
           title="Mobile Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Developing apps with Flutter for modern, user-friendly and high-performing applications."
           icon={<FaMobile />}
         />
         {/* <Card
@@ -45,8 +43,7 @@ const Features = () => {
         /> */}
         <Card
           title="Devops"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Using Docker for development allows for creating consistent and portable development environments, making it easier to develop and test applications on any platform."
           icon={<FaGlobe />}
         />
       </div>
