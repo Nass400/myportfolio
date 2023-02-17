@@ -36,14 +36,13 @@ Jira - Cypress - Kafka - Microservices - Docker</strong></li>
             subTitle="ODAS SERVICES - (Dec 2021 - Aug 2022)"
             result="TUNIS, TUNISIA"
             des=<ul>
-                  <li>Designing Microservice Architecture Projects.</li>
-                  <li>Desiging Databases Architectures.</li>
-                  <li>Building APIs using ExpressJS & NestJs along with SQL & NoSQL databases.</li>
-                  <li>Working with a Test Driven Development pattern assuring the quality and
-optimization of Code.</li>
+                  <li>In charge of developing the main product "Claim" from scratch within a team of 6 people.</li>
+                  <li>Developing features in frontend (Reactjs) and backend (Spring Boot)</li>
+                  <li>Develop unit tests and contribute to the generalization of functional tests in a continuous integration context (Git, docker, Git)</li>
+                  <li>Maintenance, improvement and addition of new backend features for the application.</li>
 <br></br>
-  <li><strong>Keywords: Microservices - Nodejs - Docker Compose - Mongoose - Redis
-PostgreSQL- RabbitMQ - REST API - SAGA paterns - Swagger - Mocha & Chai</strong></li>
+  <li><strong>Keywords: Java - Spring Boot - Docker Compose - Hibernate - Spring security -  PostgreSQL - REST API - Mockito - Swagger - Redis - Git - Scrum - Reactjs - hooks
+</strong></li>
 
                 </ul>
           />
